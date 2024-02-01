@@ -1,6 +1,7 @@
 # Database
-2022 DB team project
-[데이터베이스_최종발표자료_8조.pdf](https://github.com/comgongdaeng/Database/files/10943773/_._8.pdf)
+**2022 DB team project<br>**
+[시연 영상 보러 가기](https://youtu.be/c1EG1eS9H2I)<br>
+[최종 발표 자료 보러 가기](https://github.com/comgongdaeng/Database/files/10943773/_._8.pdf)
 
 ⬇ pdf 이미지로 확인하기 ⬇
 ![_ _8_page-0001](https://github.com/comgongdaeng/Database/assets/109388787/d21f3904-c899-4660-94bb-59ceb5164301)
